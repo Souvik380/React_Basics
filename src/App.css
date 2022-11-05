@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.bg-pink{
+  background: linear-gradient(pink,green);
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
